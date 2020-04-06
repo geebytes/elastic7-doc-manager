@@ -1,0 +1,20 @@
+action: python, msg: envreport
+cwd: /data/matrix/platform/source/geelib/elastic2-doc-manager
+cmd: /data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/bin/python -m pip freeze
+autocommand==2.2.1
+bottle==0.12.18
+certifi==2020.4.5.1
+chardet==3.0.4
+CherryPy==7.0.0
+elastic2-doc-manager==1.0.1.dev1+gad92138.d20200406
+elasticsearch==7.6.0
+idna==2.9
+importlib-metadata==1.6.0
+importlib-resources==1.4.0
+mongo-connector==3.1.1
+mongo-orchestration==0.6.12
+pymongo==3.5.1
+requests==2.23.0
+six==1.14.0
+urllib3==1.25.8
+zipp==1.2.0

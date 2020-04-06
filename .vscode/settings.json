@@ -1,0 +1,4 @@
+{
+    "go.inferGopath": false,
+    "python.pythonPath": "env/bin/python3.5"
+}

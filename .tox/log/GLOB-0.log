@@ -1,0 +1,63 @@
+action: GLOB, msg: packaging
+cwd: /data/matrix/platform/source/geelib/elastic2-doc-manager
+cmd: /data/matrix/platform/source/geelib/elastic2-doc-manager/env/bin/python3.5 setup.py sdist --formats=zip --dist-dir .tox/dist
+running sdist
+running egg_info
+writing requirements to elastic2_doc_manager.egg-info/requires.txt
+writing elastic2_doc_manager.egg-info/PKG-INFO
+writing top-level names to elastic2_doc_manager.egg-info/top_level.txt
+writing dependency_links to elastic2_doc_manager.egg-info/dependency_links.txt
+writing manifest file 'elastic2_doc_manager.egg-info/SOURCES.txt'
+running check
+creating elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406
+creating elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/elastic2_doc_manager.egg-info
+creating elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/mongo_connector
+creating elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/mongo_connector/doc_managers
+creating elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/tests
+copying files to elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406...
+copying .flake8 -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406
+copying .gitignore -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406
+copying .travis.yml -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406
+copying CHANGELOG.rst -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406
+copying LICENSE -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406
+copying README.rst -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406
+copying pyproject.toml -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406
+copying setup.cfg -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406
+copying setup.py -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406
+copying tox.ini -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406
+copying elastic2_doc_manager.egg-info/PKG-INFO -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/elastic2_doc_manager.egg-info
+copying elastic2_doc_manager.egg-info/SOURCES.txt -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/elastic2_doc_manager.egg-info
+copying elastic2_doc_manager.egg-info/dependency_links.txt -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/elastic2_doc_manager.egg-info
+copying elastic2_doc_manager.egg-info/requires.txt -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/elastic2_doc_manager.egg-info
+copying elastic2_doc_manager.egg-info/top_level.txt -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/elastic2_doc_manager.egg-info
+copying mongo_connector/__init__.py -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/mongo_connector
+copying mongo_connector/doc_managers/__init__.py -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/mongo_connector/doc_managers
+copying mongo_connector/doc_managers/elastic2_doc_manager.py -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/mongo_connector/doc_managers
+copying tests/__init__.py -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/tests
+copying tests/test_elastic2.py -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/tests
+copying tests/test_elastic2_doc_manager.py -> elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/tests
+Writing elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/setup.cfg
+creating '.tox/dist/elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406.zip' and adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406' to it
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/CHANGELOG.rst'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/setup.py'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/README.rst'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/pyproject.toml'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/LICENSE'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/.flake8'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/tox.ini'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/.travis.yml'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/setup.cfg'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/PKG-INFO'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/.gitignore'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/mongo_connector/__init__.py'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/mongo_connector/doc_managers/__init__.py'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/mongo_connector/doc_managers/elastic2_doc_manager.py'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/tests/test_elastic2.py'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/tests/__init__.py'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/tests/test_elastic2_doc_manager.py'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/elastic2_doc_manager.egg-info/top_level.txt'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/elastic2_doc_manager.egg-info/requires.txt'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/elastic2_doc_manager.egg-info/SOURCES.txt'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/elastic2_doc_manager.egg-info/PKG-INFO'
+adding 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406/elastic2_doc_manager.egg-info/dependency_links.txt'
+removing 'elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406' (and everything under it)

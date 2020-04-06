@@ -1,0 +1,210 @@
+2020-04-06 21:00:35,422 [INFO] mongo_orchestration.daemon:130 - Starting daemon
+2020-04-06 21:00:35,422 [INFO] mongo_orchestration.daemon:76 - daemonize_posix
+2020-04-06 21:00:35,423 [DEBUG] mongo_orchestration.daemon:80 - forked first child, pid = 30931
+2020-04-06 21:00:35,423 [DEBUG] mongo_orchestration.daemon:82 - in child after first fork, pid = 0
+2020-04-06 21:00:35,424 [DEBUG] mongo_orchestration.daemon:98 - forked second child, pid = 30932, exiting
+2020-04-06 21:00:35,424 [INFO] mongo_orchestration.daemon:106 - daemonized, pid = 0
+2020-04-06 21:00:35,425 [DEBUG] mongo_orchestration.server:131 - Starting HTTP server on host: localhost; port: 20000
+2020-04-06 21:00:36,731 [DEBUG] mongo_orchestration.daemon:153 - reading /data/matrix/platform/source/geelib/elastic2-doc-manager/server.pid
+2020-04-06 21:03:57,439 [INFO] mongo_orchestration.daemon:130 - Starting daemon
+2020-04-06 21:03:57,439 [INFO] mongo_orchestration.daemon:76 - daemonize_posix
+2020-04-06 21:03:57,440 [DEBUG] mongo_orchestration.daemon:80 - forked first child, pid = 1844
+2020-04-06 21:03:57,440 [DEBUG] mongo_orchestration.daemon:82 - in child after first fork, pid = 0
+2020-04-06 21:03:57,441 [DEBUG] mongo_orchestration.daemon:98 - forked second child, pid = 1845, exiting
+2020-04-06 21:03:57,441 [INFO] mongo_orchestration.daemon:106 - daemonized, pid = 0
+2020-04-06 21:03:57,443 [DEBUG] mongo_orchestration.server:131 - Starting HTTP server on host: localhost; port: 20000
+2020-04-06 21:03:58,738 [DEBUG] mongo_orchestration.daemon:153 - reading /data/matrix/platform/source/geelib/elastic2-doc-manager/server.pid
+2020-04-06 21:05:54,053 [INFO] mongo_orchestration.daemon:130 - Starting daemon
+2020-04-06 21:05:54,053 [INFO] mongo_orchestration.daemon:76 - daemonize_posix
+2020-04-06 21:05:54,054 [DEBUG] mongo_orchestration.daemon:80 - forked first child, pid = 3536
+2020-04-06 21:05:54,054 [DEBUG] mongo_orchestration.daemon:82 - in child after first fork, pid = 0
+2020-04-06 21:05:54,055 [DEBUG] mongo_orchestration.daemon:98 - forked second child, pid = 3537, exiting
+2020-04-06 21:05:54,055 [INFO] mongo_orchestration.daemon:106 - daemonized, pid = 0
+2020-04-06 21:05:54,057 [DEBUG] mongo_orchestration.server:131 - Starting HTTP server on host: localhost; port: 20000
+2020-04-06 21:05:55,343 [DEBUG] mongo_orchestration.daemon:153 - reading /data/matrix/platform/source/geelib/elastic2-doc-manager/server.pid
+2020-04-06 21:08:57,767 [INFO] mongo_orchestration.daemon:130 - Starting daemon
+2020-04-06 21:08:57,776 [INFO] mongo_orchestration.daemon:76 - daemonize_posix
+2020-04-06 21:08:57,777 [DEBUG] mongo_orchestration.daemon:80 - forked first child, pid = 7198
+2020-04-06 21:08:57,778 [DEBUG] mongo_orchestration.daemon:82 - in child after first fork, pid = 0
+2020-04-06 21:08:57,779 [DEBUG] mongo_orchestration.daemon:98 - forked second child, pid = 7199, exiting
+2020-04-06 21:08:57,779 [INFO] mongo_orchestration.daemon:106 - daemonized, pid = 0
+2020-04-06 21:08:57,781 [DEBUG] mongo_orchestration.server:131 - Starting HTTP server on host: localhost; port: 20000
+2020-04-06 21:08:59,062 [DEBUG] mongo_orchestration.daemon:153 - reading /data/matrix/platform/source/geelib/elastic2-doc-manager/server.pid
+2020-04-06 21:12:04,198 [INFO] mongo_orchestration.daemon:130 - Starting daemon
+2020-04-06 21:12:04,198 [INFO] mongo_orchestration.daemon:76 - daemonize_posix
+2020-04-06 21:12:04,198 [DEBUG] mongo_orchestration.daemon:80 - forked first child, pid = 9739
+2020-04-06 21:12:04,199 [DEBUG] mongo_orchestration.daemon:82 - in child after first fork, pid = 0
+2020-04-06 21:12:04,200 [DEBUG] mongo_orchestration.daemon:98 - forked second child, pid = 9740, exiting
+2020-04-06 21:12:04,200 [INFO] mongo_orchestration.daemon:106 - daemonized, pid = 0
+2020-04-06 21:12:04,202 [DEBUG] mongo_orchestration.server:131 - Starting HTTP server on host: localhost; port: 20000
+2020-04-06 21:12:05,478 [DEBUG] mongo_orchestration.daemon:153 - reading /data/matrix/platform/source/geelib/elastic2-doc-manager/server.pid
+2020-04-06 21:14:45,073 [INFO] mongo_orchestration.daemon:130 - Starting daemon
+2020-04-06 21:14:45,074 [INFO] mongo_orchestration.daemon:76 - daemonize_posix
+2020-04-06 21:14:45,074 [DEBUG] mongo_orchestration.daemon:80 - forked first child, pid = 12288
+2020-04-06 21:14:45,075 [DEBUG] mongo_orchestration.daemon:82 - in child after first fork, pid = 0
+2020-04-06 21:14:45,075 [DEBUG] mongo_orchestration.daemon:98 - forked second child, pid = 12289, exiting
+2020-04-06 21:14:45,076 [INFO] mongo_orchestration.daemon:106 - daemonized, pid = 0
+2020-04-06 21:14:45,077 [DEBUG] mongo_orchestration.server:131 - Starting HTTP server on host: localhost; port: 20000
+2020-04-06 21:14:46,359 [DEBUG] mongo_orchestration.daemon:153 - reading /data/matrix/platform/source/geelib/elastic2-doc-manager/server.pid
+2020-04-06 21:18:21,782 [INFO] mongo_orchestration.daemon:130 - Starting daemon
+2020-04-06 21:18:21,782 [INFO] mongo_orchestration.daemon:76 - daemonize_posix
+2020-04-06 21:18:21,783 [DEBUG] mongo_orchestration.daemon:80 - forked first child, pid = 16080
+2020-04-06 21:18:21,783 [DEBUG] mongo_orchestration.daemon:82 - in child after first fork, pid = 0
+2020-04-06 21:18:21,784 [DEBUG] mongo_orchestration.daemon:98 - forked second child, pid = 16081, exiting
+2020-04-06 21:18:21,784 [INFO] mongo_orchestration.daemon:106 - daemonized, pid = 0
+2020-04-06 21:18:21,786 [DEBUG] mongo_orchestration.server:131 - Starting HTTP server on host: localhost; port: 20000
+2020-04-06 21:18:23,019 [DEBUG] mongo_orchestration.apps:64 - rs_create((), {})
+2020-04-06 21:18:23,019 [DEBUG] mongo_orchestration.apps.replica_sets:77 - rs_create()
+2020-04-06 21:18:23,019 [DEBUG] mongo_orchestration.servers:160 - Server.__init__(mongod, {'setParameter': {'enableTestCommands': 1}, 'replSet': '6c5f3b5b-fa82-4841-bff0-e6bee86dde5c', 'port': 27017, 'logappend': True}, {}, None, None, None)
+2020-04-06 21:18:23,019 [DEBUG] mongo_orchestration.servers:68 - Creating log file for mongod: /tmp/mongo-32bb9ag1/mongod.log
+2020-04-06 21:18:23,019 [DEBUG] mongo_orchestration.servers:220 - ('mongod', '--version')
+2020-04-06 21:18:23,022 [ERROR] mongo_orchestration.apps:68 - <function rs_create at 0x7f87c59ad950>
+Traceback (most recent call last):
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/apps/__init__.py", line 66, in wrap
+    return f(*arg, **kwd)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/apps/replica_sets.py", line 80, in rs_create
+    result = _rs_create(data)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/apps/replica_sets.py", line 37, in _rs_create
+    rs_id = ReplicaSets().create(params)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/replica_sets.py", line 643, in create
+    repl = ReplicaSet(rs_params)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/replica_sets.py", line 74, in __init__
+    for index, member in enumerate(members)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/replica_sets.py", line 74, in <listcomp>
+    for index, member in enumerate(members)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/replica_sets.py", line 317, in member_create
+    server_id=server_id
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/servers.py", line 509, in create
+    auth_key, login, password, auth_source)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/servers.py", line 182, in __init__
+    self.config_path, self.cfg = self.__init_mongod(procParams)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/servers.py", line 111, in __init_mongod
+    self.__init_test_commands(cfg)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/servers.py", line 75, in __init_test_commands
+    if self.version >= (2, 4):
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/servers.py", line 222, in version
+    command, stdout=subprocess.PIPE).communicate()
+  File "/home/qzh/.pyenv/versions/3.5.6/lib/python3.5/subprocess.py", line 676, in __init__
+    restore_signals, start_new_session)
+  File "/home/qzh/.pyenv/versions/3.5.6/lib/python3.5/subprocess.py", line 1289, in _execute_child
+    raise child_exception_type(errno_num, err_msg)
+FileNotFoundError: [Errno 2] No such file or directory: 'mongod'
+2020-04-06 21:18:23,025 [DEBUG] mongo_orchestration.apps:55 - send_result(500)
+2020-04-06 21:18:54,947 [DEBUG] mongo_orchestration.apps:64 - sh_list((), {})
+2020-04-06 21:18:54,947 [DEBUG] mongo_orchestration.apps.sharded_clusters:82 - sh_list()
+2020-04-06 21:18:54,948 [DEBUG] mongo_orchestration.apps:55 - send_result(200)
+2020-04-06 21:18:54,951 [DEBUG] mongo_orchestration.apps:64 - rs_list((), {})
+2020-04-06 21:18:54,951 [DEBUG] mongo_orchestration.apps.replica_sets:94 - rs_list()
+2020-04-06 21:18:54,951 [DEBUG] mongo_orchestration.apps:55 - send_result(200)
+2020-04-06 21:18:54,954 [DEBUG] mongo_orchestration.apps:64 - host_list((), {})
+2020-04-06 21:18:54,954 [DEBUG] mongo_orchestration.apps.servers:97 - host_list()
+2020-04-06 21:18:54,954 [DEBUG] mongo_orchestration.apps:55 - send_result(200)
+2020-04-06 21:18:55,128 [DEBUG] mongo_orchestration.daemon:153 - reading /data/matrix/platform/source/geelib/elastic2-doc-manager/server.pid
+2020-04-06 21:22:34,025 [INFO] mongo_orchestration.daemon:130 - Starting daemon
+2020-04-06 21:22:34,025 [INFO] mongo_orchestration.daemon:76 - daemonize_posix
+2020-04-06 21:22:34,026 [DEBUG] mongo_orchestration.daemon:80 - forked first child, pid = 19797
+2020-04-06 21:22:34,027 [DEBUG] mongo_orchestration.daemon:82 - in child after first fork, pid = 0
+2020-04-06 21:22:34,028 [DEBUG] mongo_orchestration.daemon:98 - forked second child, pid = 19798, exiting
+2020-04-06 21:22:34,028 [INFO] mongo_orchestration.daemon:106 - daemonized, pid = 0
+2020-04-06 21:22:34,029 [DEBUG] mongo_orchestration.server:131 - Starting HTTP server on host: localhost; port: 20000
+2020-04-06 21:22:35,270 [DEBUG] mongo_orchestration.apps:64 - rs_create((), {})
+2020-04-06 21:22:35,270 [DEBUG] mongo_orchestration.apps.replica_sets:77 - rs_create()
+2020-04-06 21:22:35,271 [DEBUG] mongo_orchestration.servers:160 - Server.__init__(mongod, {'logappend': True, 'port': 27017, 'replSet': 'cc9fd28a-d5a0-471b-ab36-c247248fb75b', 'setParameter': {'enableTestCommands': 1}}, {}, None, None, None)
+2020-04-06 21:22:35,271 [DEBUG] mongo_orchestration.servers:68 - Creating log file for mongod: /tmp/mongo-cxpdblu6/mongod.log
+2020-04-06 21:22:35,271 [DEBUG] mongo_orchestration.servers:220 - ('mongod', '--version')
+2020-04-06 21:22:35,274 [ERROR] mongo_orchestration.apps:68 - <function rs_create at 0x7f7ae7bed9d8>
+Traceback (most recent call last):
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/apps/__init__.py", line 66, in wrap
+    return f(*arg, **kwd)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/apps/replica_sets.py", line 80, in rs_create
+    result = _rs_create(data)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/apps/replica_sets.py", line 37, in _rs_create
+    rs_id = ReplicaSets().create(params)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/replica_sets.py", line 643, in create
+    repl = ReplicaSet(rs_params)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/replica_sets.py", line 74, in __init__
+    for index, member in enumerate(members)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/replica_sets.py", line 74, in <listcomp>
+    for index, member in enumerate(members)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/replica_sets.py", line 317, in member_create
+    server_id=server_id
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/servers.py", line 509, in create
+    auth_key, login, password, auth_source)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/servers.py", line 182, in __init__
+    self.config_path, self.cfg = self.__init_mongod(procParams)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/servers.py", line 111, in __init_mongod
+    self.__init_test_commands(cfg)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/servers.py", line 75, in __init_test_commands
+    if self.version >= (2, 4):
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/servers.py", line 222, in version
+    command, stdout=subprocess.PIPE).communicate()
+  File "/home/qzh/.pyenv/versions/3.5.6/lib/python3.5/subprocess.py", line 676, in __init__
+    restore_signals, start_new_session)
+  File "/home/qzh/.pyenv/versions/3.5.6/lib/python3.5/subprocess.py", line 1289, in _execute_child
+    raise child_exception_type(errno_num, err_msg)
+FileNotFoundError: [Errno 2] No such file or directory: 'mongod'
+2020-04-06 21:22:35,277 [DEBUG] mongo_orchestration.apps:55 - send_result(500)
+2020-04-06 21:23:24,580 [DEBUG] mongo_orchestration.apps:64 - sh_list((), {})
+2020-04-06 21:23:24,580 [DEBUG] mongo_orchestration.apps.sharded_clusters:82 - sh_list()
+2020-04-06 21:23:24,581 [DEBUG] mongo_orchestration.apps:55 - send_result(200)
+2020-04-06 21:23:24,583 [DEBUG] mongo_orchestration.apps:64 - rs_list((), {})
+2020-04-06 21:23:24,584 [DEBUG] mongo_orchestration.apps.replica_sets:94 - rs_list()
+2020-04-06 21:23:24,584 [DEBUG] mongo_orchestration.apps:55 - send_result(200)
+2020-04-06 21:23:24,586 [DEBUG] mongo_orchestration.apps:64 - host_list((), {})
+2020-04-06 21:23:24,586 [DEBUG] mongo_orchestration.apps.servers:97 - host_list()
+2020-04-06 21:23:24,587 [DEBUG] mongo_orchestration.apps:55 - send_result(200)
+2020-04-06 21:23:24,770 [DEBUG] mongo_orchestration.daemon:153 - reading /data/matrix/platform/source/geelib/elastic2-doc-manager/server.pid
+2020-04-06 21:52:33,647 [INFO] mongo_orchestration.daemon:130 - Starting daemon
+2020-04-06 21:52:33,647 [INFO] mongo_orchestration.daemon:76 - daemonize_posix
+2020-04-06 21:52:33,648 [DEBUG] mongo_orchestration.daemon:80 - forked first child, pid = 19143
+2020-04-06 21:52:33,648 [DEBUG] mongo_orchestration.daemon:82 - in child after first fork, pid = 0
+2020-04-06 21:52:33,649 [DEBUG] mongo_orchestration.daemon:98 - forked second child, pid = 19144, exiting
+2020-04-06 21:52:33,650 [INFO] mongo_orchestration.daemon:106 - daemonized, pid = 0
+2020-04-06 21:52:33,651 [DEBUG] mongo_orchestration.server:131 - Starting HTTP server on host: localhost; port: 20000
+2020-04-06 21:52:34,994 [DEBUG] mongo_orchestration.apps:64 - rs_create((), {})
+2020-04-06 21:52:34,995 [DEBUG] mongo_orchestration.apps.replica_sets:77 - rs_create()
+2020-04-06 21:52:34,995 [DEBUG] mongo_orchestration.servers:160 - Server.__init__(mongod, {'logappend': True, 'port': 27017, 'replSet': 'ea9b9820-b7d6-4c01-afa7-3550231ce389', 'setParameter': {'enableTestCommands': 1}}, {}, None, None, None)
+2020-04-06 21:52:34,995 [DEBUG] mongo_orchestration.servers:68 - Creating log file for mongod: /tmp/mongo-3xafutnz/mongod.log
+2020-04-06 21:52:34,995 [DEBUG] mongo_orchestration.servers:220 - ('mongod', '--version')
+2020-04-06 21:52:34,997 [ERROR] mongo_orchestration.apps:68 - <function rs_create at 0x7f9ad5ff69d8>
+Traceback (most recent call last):
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/apps/__init__.py", line 66, in wrap
+    return f(*arg, **kwd)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/apps/replica_sets.py", line 80, in rs_create
+    result = _rs_create(data)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/apps/replica_sets.py", line 37, in _rs_create
+    rs_id = ReplicaSets().create(params)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/replica_sets.py", line 643, in create
+    repl = ReplicaSet(rs_params)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/replica_sets.py", line 74, in __init__
+    for index, member in enumerate(members)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/replica_sets.py", line 74, in <listcomp>
+    for index, member in enumerate(members)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/replica_sets.py", line 317, in member_create
+    server_id=server_id
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/servers.py", line 509, in create
+    auth_key, login, password, auth_source)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/servers.py", line 182, in __init__
+    self.config_path, self.cfg = self.__init_mongod(procParams)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/servers.py", line 111, in __init_mongod
+    self.__init_test_commands(cfg)
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/servers.py", line 75, in __init_test_commands
+    if self.version >= (2, 4):
+  File "/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/lib/python3.5/site-packages/mongo_orchestration/servers.py", line 222, in version
+    command, stdout=subprocess.PIPE).communicate()
+  File "/home/qzh/.pyenv/versions/3.5.6/lib/python3.5/subprocess.py", line 676, in __init__
+    restore_signals, start_new_session)
+  File "/home/qzh/.pyenv/versions/3.5.6/lib/python3.5/subprocess.py", line 1289, in _execute_child
+    raise child_exception_type(errno_num, err_msg)
+FileNotFoundError: [Errno 2] No such file or directory: 'mongod'
+2020-04-06 21:52:34,998 [DEBUG] mongo_orchestration.apps:55 - send_result(500)
+2020-04-06 21:53:24,006 [DEBUG] mongo_orchestration.apps:64 - sh_list((), {})
+2020-04-06 21:53:24,006 [DEBUG] mongo_orchestration.apps.sharded_clusters:82 - sh_list()
+2020-04-06 21:53:24,006 [DEBUG] mongo_orchestration.apps:55 - send_result(200)
+2020-04-06 21:53:24,009 [DEBUG] mongo_orchestration.apps:64 - rs_list((), {})
+2020-04-06 21:53:24,009 [DEBUG] mongo_orchestration.apps.replica_sets:94 - rs_list()
+2020-04-06 21:53:24,009 [DEBUG] mongo_orchestration.apps:55 - send_result(200)
+2020-04-06 21:53:24,012 [DEBUG] mongo_orchestration.apps:64 - host_list((), {})
+2020-04-06 21:53:24,012 [DEBUG] mongo_orchestration.apps.servers:97 - host_list()
+2020-04-06 21:53:24,012 [DEBUG] mongo_orchestration.apps:55 - send_result(200)
+2020-04-06 21:53:24,186 [DEBUG] mongo_orchestration.daemon:153 - reading /data/matrix/platform/source/geelib/elastic2-doc-manager/server.pid

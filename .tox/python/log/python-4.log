@@ -1,0 +1,23 @@
+action: python, msg: installpkg
+cwd: /data/matrix/platform/source/geelib/elastic2-doc-manager
+cmd: /data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/bin/python -m pip install --no-deps -U .tox/.tmp/package/1/elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406.zip
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Processing ./.tox/.tmp/package/1/elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406.zip
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+    Preparing wheel metadata: started
+    Preparing wheel metadata: finished with status 'done'
+Building wheels for collected packages: elastic2-doc-manager
+  Building wheel for elastic2-doc-manager (PEP 517): started
+  Building wheel for elastic2-doc-manager (PEP 517): finished with status 'done'
+  Created wheel for elastic2-doc-manager: filename=elastic2_doc_manager-1.0.1.dev1+gad92138.d20200406-py2.py3-none-any.whl size=15023 sha256=1ba6a096b2b6d11ffafdc4db31284c6e4d0b4693559d3a836dcb01b7b14b00be
+  Stored in directory: /home/qzh/.cache/pip/wheels/0f/0b/48/7a48a3c56e148b1afca759f4e496607032b692c25e85fae80c
+Successfully built elastic2-doc-manager
+Installing collected packages: elastic2-doc-manager
+  Attempting uninstall: elastic2-doc-manager
+    Found existing installation: elastic2-doc-manager 1.0.1.dev1+gad92138.d20200406
+    Not uninstalling elastic2-doc-manager at /data/matrix/platform/source/geelib/elastic2-doc-manager, outside environment /data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python
+    Can't uninstall 'elastic2-doc-manager'. No files were found to uninstall.
+Successfully installed elastic2-doc-manager-1.0.1.dev1+gad92138.d20200406

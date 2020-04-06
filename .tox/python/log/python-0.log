@@ -1,0 +1,7 @@
+action: python, msg: getenv
+cwd: /data/matrix/platform/source/geelib/elastic2-doc-manager/.tox
+cmd: /data/matrix/platform/source/geelib/elastic2-doc-manager/env/bin/python3.5 -m virtualenv --no-download --python /data/matrix/platform/source/geelib/elastic2-doc-manager/env/bin/python3.5 python
+created virtual environment CPython3.5.6.final.0-64 in 281ms
+  creator CPython3Posix(dest=/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python, clear=False, global=False)
+  seeder FromAppData(download=False, pip=latest, setuptools=latest, wheel=latest, via=copy, app_data_dir=/home/qzh/.local/share/virtualenv/seed-app-data/v1.0.1)
+  activators PowerShellActivator,PythonActivator,XonshActivator,FishActivator,CShellActivator,BashActivator
