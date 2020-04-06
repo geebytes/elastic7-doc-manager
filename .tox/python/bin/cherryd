@@ -1,6 +1,0 @@
-#!/data/matrix/platform/source/geelib/elastic2-doc-manager/.tox/python/bin/python
-
-import cherrypy.daemon
-
-if __name__ == '__main__':
-    cherrypy.daemon.run()
